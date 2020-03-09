@@ -10,8 +10,8 @@ Navigate through the logs performing a basic set of actions:
 
 ## Misc
 
-Convenience function [`remove-unprintables.sh`](./remove-unprintables.sh) is
-provided to clean up unprintable UTF-8 usually found in logs.
+- The [just-b4-restart.sh](./just-b4-restart.sh) script shows process restarts (PID change) along with previous log entry (reason for crash?)
+- Convenience function [`remove-unprintables.sh`](./remove-unprintables.sh) is provided to clean up unprintable UTF-8 usually found in logs.
 
 
 ## Status
